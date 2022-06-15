@@ -1,4 +1,4 @@
-## Olá! Eu sou Renata Karolina 👋
+## Hello, I'm Renata Karolina 👋
 
 
 <a href="https://www.instagram.com/renata_rko/"><img src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
