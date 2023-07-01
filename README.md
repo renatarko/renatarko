@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Renata Karolina 🙋‍♀️</h1>
+<h1 align="center">Hello, I'm Renata Karolina ✌️</h1>
 
 
   
