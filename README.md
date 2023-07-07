@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm Renata Karolina ✌️</h1>
 
+<div align="center" justify="center">
 
-  
-<div align="center">
+    
+<nav align="center">
   <a href="https://www.linkedin.com/in/renata-karolina-de-oliveira-rko/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -20,7 +21,16 @@
   </a>
 </nav>
 
+<br/>
+<br/>
+
+
+<p align="justify"><strong>Front End Software Developer</strong> working with <strong>TypeScript, JavaScript, React, Next.js, Node.js, CSS and HTML</strong>. Atuando como freelancer e desenvolvendo MVP Startups. Participo de projetos open sources e estou aprimorando meus conhecimentos no eco sistema JavaScript. Sou apaixonada por implementar UI/UX e Design responsivos.</p>
+</div>
+
 #
+<br/>
+
 
 <div align="center">
   <a href="https://github.com/renatarko">
