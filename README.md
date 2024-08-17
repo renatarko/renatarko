@@ -22,14 +22,6 @@
 <br/>
 <br/>
 
-<div>
-    <p>I'm a <strong> Front End Software Developer</strong> coding with <strong>TypeScript, JavaScript, React, Next.js, Node.js, CSS, and HTML</strong>.  I'm currently working as a freelancer and developing an MVP for a startup. I'm actively involved in open-source projects and continuously improving my skills within the JavaScript ecosystem.<p/>
-    <p>Even though I've only been in the field for a short time, I have a real passion for crafting stunning UI/UX designs 💜. <br/> 
-        Learning and professional growth are extremely important to me, so I'm always seeking new ways to expand my knowledge. ⬆️</p>
-</div>
-
-
-
 <div align="center">
   <a href="https://github.com/renatarko">
 </div>
